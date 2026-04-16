@@ -14,7 +14,8 @@ This project focuses on clean UI design, smooth interactions, and mobile respons
 - 🧊 Glassmorphism / blur effects  
 - ⚡ Clean and structured code  
 
----
+
+
 
 ## 🛠️ Technologies Used
 
@@ -35,7 +36,7 @@ This project focuses on clean UI design, smooth interactions, and mobile respons
 
 ## 📸 Preview
 
-> *(Add screenshots or GIFs of your project here for better engagement)*
+> ---<img width="1901" height="880" alt="IMG_20260413_113710" src="https://github.com/user-attachments/assets/2e029504-83ae-4f30-9ead-861d8907afed" />
 
 ---
 
